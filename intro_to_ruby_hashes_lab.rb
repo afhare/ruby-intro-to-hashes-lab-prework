@@ -43,6 +43,7 @@ monopoly = {
 	      :four_pieces_owned => 200
 	    }
 	  }
+}
 end
 
 def monopoly_with_fourth_tier
